@@ -1,0 +1,8 @@
+.container {
+  background-color: pink;
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}

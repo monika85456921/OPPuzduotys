@@ -88,3 +88,5 @@ console.log(mokytojas1);
 const topikai = ["oop", "array", "xxxx", "yyyy"];
 topikai.forEach((topic) => mokytojas1.setTopic(topic));
 mokytojas1.getTopics();
+
+///2 skaidre
